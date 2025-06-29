@@ -15,7 +15,7 @@ I am a final-year student passionate about software development and DevOps. This
 ## How to View
 
 To view the live site, visit:  
-[https://rohan-portfolio-1.s3-website.ap-south-1.amazonaws.com/](https://rohan-portfolio-1.s3-website.ap-south-1.amazonaws.com/)
+[http://rohan-portfolio-1.s3-website.ap-south-1.amazonaws.com/](http://rohan-portfolio-1.s3-website.ap-south-1.amazonaws.com/)
 
 ## Local Setup
 
